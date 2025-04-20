@@ -1,3 +1,4 @@
 Overwritten content in the file.
 This is appended content.
 Adding a line to test Git diff.
+Update from update-notes branch.
